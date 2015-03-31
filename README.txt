@@ -1,0 +1,1 @@
+Dobrı den, ve sloce se nachází tøída k vytváøení seznamù. K editaci staèí vyplnit typ seznamu (èíslovanı, odrákovanı,..) a pak postupnì vyplnit jednotlivé poloky. Návod k pouizí tøídy je v souboru "priklad.php".
